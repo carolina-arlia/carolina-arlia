@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Follow My Pet](https://follow-my-pet.herokuapp.com/)
 
-- 🌱 I’m currently learning **ReactJS & TypeScript**
+- 🌱 I’m currently learning **ReactJS & Go**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
