@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A passionate full stack developer from Barcelona</h3>
+<h3 align="center">A passionate backend developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [Follow My Pet](https://follow-my-pet.herokuapp.com/)
+- 🔭 I’m currently working at [Toptal](https://www.toptal.com/)
 
-- 🌱 I’m currently learning **TDD & Testing**
+- 🌱 I’m currently learning about building metrics with **Periscope**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **carolinaiarlia@gmail.com**
+- 📫 How to reach me: **carolinaiarlia@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caroarlia/](https://www.linkedin.com/in/caroarlia/)
 
